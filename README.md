@@ -15,7 +15,7 @@
 ## Technologies Used
 {i used HTML}
 ## Support and contact details
-{if you meet any issue don't hesitate to contact me or other a comments or share your codes with us. }
+{if you meet any issue don't hesitate to contact me or add a comments or share your codes with us. }
 ### License
 *{we will use MIT licence where everyone is allowed to participate and use it for free.}*
 Copyright (c) {2020} **{Moriga school}**
